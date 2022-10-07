@@ -1,0 +1,27 @@
+.ant {
+  background-color: #fff;
+  border: 0.0625rem solid #dadce0;
+  -webkit-border-radius: 0.5rem;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+}
+.ant__top {
+  display: flex;
+  align-items: center;
+}
+.ant__top > * {
+  margin-left: 10px;
+}
+.ant__Cnt {
+  padding: 2rem 0;
+}
+.ant__txt {
+  margin: 10px 15px;
+}
+.ant__img {
+  height: 150px;
+  width: 150px;
+  object-fit: contain;
+  margin-left: 10px;
+}

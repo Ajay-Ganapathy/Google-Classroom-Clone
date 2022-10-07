@@ -1,0 +1,19 @@
+.cwrapper{
+  display : flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.cwork{
+  flex : 1;
+}
+
+.ctopics{
+  flex : 1;
+}
+
+.ctopic h1{
+  margin-bottom: 22px;
+  color : #1967d2;
+  border-bottom: .2rem #1967d2;
+}
